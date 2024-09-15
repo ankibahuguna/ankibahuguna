@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ankibahuguna
 - 👀 I’m interested in Node Js, React and Golang
-- 🌱 I’m currently learning Ocaml
 - 💞️ I’m looking to collaborate on open source Javascript and Golang projects
 - 📫 I can be reached on my email - ankiit.bahuguna@gmail.com
 
